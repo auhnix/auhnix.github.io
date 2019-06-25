@@ -1,5 +1,5 @@
-current directory: /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190625-33946-1uml6pl.rb extconf.rb
+current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190625-48292-1s0aubc.rb extconf.rb
 checking if the C compiler accepts  -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libxml2... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using packaged libraries.
@@ -32,11 +32,11 @@ Note, however, that nokogiri is not fully compatible with arbitrary
 versions of libxml2 provided by OS/package vendors.
 ************************************************************************
 Extracting libxml2-2.9.9.tar.gz into tmp/x86_64-apple-darwin18/ports/libxml2/2.9.9... OK
-Running git apply with /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/patches/libxml2/0001-Revert-Do-not-URI-escape-in-server-side-includes.patch... OK
+Running git apply with /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/patches/libxml2/0001-Revert-Do-not-URI-escape-in-server-side-includes.patch... OK
 Running 'configure' for libxml2 2.9.9... OK
 Running 'compile' for libxml2 2.9.9... OK
 Running 'install' for libxml2 2.9.9... OK
-Activating libxml2 2.9.9 (from /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9)...
+Activating libxml2 2.9.9 (from /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxml2/2.9.9)...
 ************************************************************************
 IMPORTANT NOTICE:
 
@@ -60,7 +60,7 @@ Extracting libxslt-1.1.33.tar.gz into tmp/x86_64-apple-darwin18/ports/libxslt/1.
 Running 'configure' for libxslt 1.1.33... OK
 Running 'compile' for libxslt 1.1.33... OK
 Running 'install' for libxslt 1.1.33... OK
-Activating libxslt 1.1.33 (from /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxslt/1.1.33)...
+Activating libxslt 1.1.33 (from /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports/x86_64-apple-darwin18/libxslt/1.1.33)...
 checking for main() in -llzma... yes
 checking for xmlParseDoc() in libxml/parser.h... yes
 checking for xsltParseStylesheetDoc() in libxslt/xslt.h... yes
@@ -76,12 +76,12 @@ creating Makefile
 
 To see why this extension failed to compile, please check the mkmf.log which can be found here:
 
-  /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/nokogiri-1.10.1/mkmf.log
+  /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/nokogiri-1.10.1/mkmf.log
 
-current directory: /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
+current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
 make "DESTDIR=" clean
 
-current directory: /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
+current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
 make "DESTDIR="
 compiling html_document.c
 compiling html_element_description.c
@@ -123,9 +123,9 @@ compiling xml_xpath_context.c
 compiling xslt_stylesheet.c
 linking shared-object nokogiri/nokogiri.bundle
 Cleaning files only used during build.
-rm -rf /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri/tmp/x86_64-apple-darwin18/ports
-rm -rf /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports
+rm -rf /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri/tmp/x86_64-apple-darwin18/ports
+rm -rf /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ports
 
-current directory: /Users/havaxp/code/jekyll-theme-massively-master/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
+current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20190625-33946-1i91u75/nokogiri
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20190625-48292-glid4t/nokogiri
