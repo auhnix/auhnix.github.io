@@ -2,4 +2,8 @@
 resume/portfolio site!
 
 ## wishlist
-- [ ] email icon/revise nav
+* [ ] bookmark wall
+* [ ] review/ramble section
+* [ ] visual portfolio
+* [ ] resume
+* [ ] sketch/mockups?
