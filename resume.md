@@ -15,14 +15,17 @@ sitemap:
 	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5cs).
 	<br/><br/>
 	experience in python/java/c++/bash and adobe illustrator/lightroom with special interests in ui/ux, web design, the arts, and machine learning. 
-	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.</p>
+	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
+	<br><br>
+	<em><a href="{{ "/files/HavaXP-Resume-032019.pdf" | absolute_url }}">downloadable copy here.</a></em></p>
+
 </div>
 
 <h2 class="accent first">academics</h2>
 ---
 <header>
 	<span class="rightcol">class of 2021</span>
-	<h3>scripps college</h3> 
+	<h3 class="first">scripps college</h3> 
 	<p>bachelor of arts, computer science - via harvey mudd college</p>
 </header>
 * *recipient of james e. scripps scholarship,* scripps' top merit award
@@ -39,8 +42,8 @@ sitemap:
 <h2 class="accent">experience/activities</h2>
 ---
 <header>
-	<span class="rightcol">jan. 2019 - present</span>
-	<h3 class="jobloc">harvey mudd cs department,</h3> <span class="jobdesc">grader/tutor</span>
+	<span class="rightcol first">jan. 2019 - present</span>
+	<h3 class="jobloc first">harvey mudd cs department,</h3> <span class="jobdesc">grader/tutor</span>
 </header>
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
 &nbsp;
@@ -99,8 +102,8 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 <h2 class="accent">service</h2>
 ---
 <header>
-	<span class="rightcol">2015 - 2017</span>
-	<h3 class="jobloc">tech crew service organization</h3>
+	<span class="rightcol first">2015 - 2017</span>
+	<h3 class="jobloc first">tech crew service organization</h3>
 </header>
 * responsible for setting up almost all events, e.g. band concerts, school festivals, graduation ceremonies (7 - 9 hours per week)
 
@@ -114,8 +117,8 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 <h2 class="accent">honors</h2>
 ---
 <header>
-	<span class="rightcol">2014 & 2015</span>
-	<h3 class="jobloc">assemblies of god fine arts competition</h3>
+	<span class="rightcol first">2014 & 2015</span>
+	<h3 class="jobloc first">assemblies of god fine arts competition</h3>
 </header>
 * district recognition for vocal performance & photography
 

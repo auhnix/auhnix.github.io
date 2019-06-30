@@ -183,6 +183,7 @@
 
 	.jobloc {
 		display: inline;
+		margin-top: 3em;
 	}
 
 	.jobdesc {
@@ -209,13 +210,17 @@
 		}
 
 		a {
-			color: _palette($p, fg-bold);
+			color: _palette($p, accent);
 			border-bottom-color: transparentize(_palette($p, fg), 0.5);
 
 			&:hover {
+				color: darken(_palette(accent), 20%);
 				border-bottom-color: transparent;
-				color: _palette($p, accent) !important;
 			}
+		}
+
+		.links a, .icons a, .logo {
+			color: white;
 		}
 
 		strong, b {
