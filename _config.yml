@@ -1,7 +1,7 @@
 # Site
-title:              "& life doesn't stop for anybody"
-bio:                'hava x parker'
-description:        "hava x parker"
+title:              "hava x. parker"
+bio:                ''
+description:        ""
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -12,11 +12,12 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 github:             auhnix
+linkedin:           havaparker
 
 # personal
 location:           greater nyc/la area
 phone:              (570) 350 - 3879
-email:              hava.xinhua@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              hava.xinhua@gmail.com
 
 # Other
 background_image:   /images/bg.jpg
@@ -30,7 +31,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: hava x. parker
 
 # Jekyll
 permalink:          /blog/:title/

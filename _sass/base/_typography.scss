@@ -72,6 +72,10 @@
 			border-bottom: 0;
 			color: inherit;
 			text-decoration: none;
+
+			&:hover {
+				font-size: inherit;
+			}
 		}
 	}
 
@@ -167,6 +171,33 @@
 	.align-right {
 		text-align: right;
 	}
+
+
+	/* resume styling */
+
+	.rightcol {
+		float: right;
+		padding-right: 1%;
+		font-style: italic;
+	}
+
+	.jobloc {
+		display: inline;
+	}
+
+	.jobdesc {
+		font-style: italic;
+	}
+
+	.accent {
+		color: _palette(accent);
+		margin-top: 1em;
+	}
+
+	.accent.first {
+		margin-top: .7em;
+	}
+
 
 	@mixin color-typography($p: null) {
 		@if $p != null {

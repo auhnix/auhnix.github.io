@@ -55,6 +55,8 @@
 						&:hover {
 							color: inherit !important;
 							background-color: transparentize(_palette(invert, fg), 0.9);
+							font-style: normal;
+							border: 0;
 						}
 					}
 

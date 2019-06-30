@@ -7,10 +7,14 @@
 /* Box */
 
 	.box {
+		width: 75%;
 		border-radius: _size(border-radius);
 		border: solid 2px;
+		margin-top: _size(element-margin);
 		margin-bottom: _size(element-margin);
-		padding: 1.5rem;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 1.2rem;
 
 		> :last-child,
 		> :last-child > :last-child,
@@ -23,6 +27,10 @@
 			border-radius: 0;
 			padding: 0;
 		}
+	}
+
+	#profile {
+		text-align: center;
 	}
 
 	@mixin color-box($p: null) {
