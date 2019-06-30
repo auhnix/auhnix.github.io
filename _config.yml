@@ -20,7 +20,7 @@ phone:              (570) 350 - 3879
 email:              hava.xinhua@gmail.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image:   /assets/images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
