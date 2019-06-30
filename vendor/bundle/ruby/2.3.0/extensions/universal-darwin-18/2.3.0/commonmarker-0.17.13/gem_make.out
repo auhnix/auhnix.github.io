@@ -1,5 +1,5 @@
 current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190625-77036-qvakgy.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190629-9982-jmuefs.rb extconf.rb
 creating Makefile
 
 current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -54,4 +54,4 @@ linking shared-object commonmarker/commonmarker.bundle
 
 current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20190625-77036-6983ak/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20190629-9982-yy2qri/commonmarker

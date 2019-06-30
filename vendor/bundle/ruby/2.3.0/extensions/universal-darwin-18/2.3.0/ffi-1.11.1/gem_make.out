@@ -1,5 +1,5 @@
 current directory: /Users/havaxp/github/auhnix.github.io/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190625-77036-12bp0f.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190629-9982-o0twdc.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for shlwapi.h... no
@@ -129,4 +129,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190625-77036-6ciesh
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190629-9982-14riwd3
