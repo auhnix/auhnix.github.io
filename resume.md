@@ -12,7 +12,7 @@ sitemap:
 </header>
 
 <div class="box">
-	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5Cs).
+	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5cs).
 	<br/><br/>
 	experience in python/java/c++/bash and adobe illustrator/lightroom with special interests in ui/ux, web design, the arts, and machine learning. 
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.</p>
@@ -52,7 +52,7 @@ sitemap:
 	<span class="rightcol">feb. 2018 - present</span>
 	<h3 class="jobloc">claremont radius,</h3> <span class="jobdesc">staff writer & editor</span>
 </header>
-* sociopolitically-minded bipartisan 5C publication featuring numerous viewpoints on controversial topics
+* sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
 * writer covering diverse issues (e.g. PRISM act, the ethics of AI-run news curation) 
 * editor ensuring clarity/factuality of articles
 
@@ -62,10 +62,17 @@ sitemap:
 </header>
 
 <header>
+	<span class="rightcol">2007 - present</span>
+	<h3 class="jobloc">shawnee playhouse theater,</h3> <span class="jobdesc">actor & stage manager</span>
+</header>
+* performed in 18 productions, specializing in musical theater
+* as stage manager, responsible for director-cast communications
+
+<header>
 	<span class="rightcol">march 2018</span>
 	<h3 class="jobloc">deloitte's consulting for impact</h3>
 </header>
-* pre-professional/consulting competition hosted by The wharton school at the university of pennsylvania
+* pre-professional/consulting competition hosted by the wharton school at the university of pennsylvania
 * led creation of team presentation and organized event/travel logistics
 
 <header>
@@ -81,13 +88,6 @@ sitemap:
 * captained award-winning regional/national level teams
 * memorized ~3,000 verses (15/27 new testament books,
 including acts, 1/2/3 john, and 1 & 2 timothy)
-
-<header>
-	<span class="rightcol">2007 - present</span>
-	<h3 class="jobloc">shawnee playhouse theater,</h3> <span class="jobdesc">actor & stage manager</span>
-</header>
-* performed in 18 productions, specializing in musical theater
-* as stage manager, responsible for director-cast communications
 
 <header>
 	<span class="rightcol">2015 - 2017</span>
