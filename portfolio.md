@@ -8,22 +8,23 @@ sitemap:
     changefreq: weekly
 ---
 
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7972.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7974-Enhanced.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ "/images/bg.jpg" | absolute_url }}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7592.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7618.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ "/images/IMG_7636.jpg" | absolute_url }}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7939.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7942.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ "/images/IMG_7949.jpg" | absolute_url }}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7677.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ "/images/IMG_7680.jpg" | absolute_url }}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ "/images/IMG_7902.jpg" | absolute_url }}" alt="" /></span></div>
-	</div>
+<div id="photowall">
+	<img class="grid" src="{{ "/images/IMG_7972.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7949.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7592.jpg" | absolute_url }}" alt="" />
+	<!-- Break -->
+	<img class="grid" src="{{ "/images/IMG_7501.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7636.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7503.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7590.jpg" | absolute_url }}" alt="" />
+	<!-- Break -->
+	<img class="grid" src="{{ "/images/IMG_7618.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7902.jpg" | absolute_url }}" alt="" />
+	<!-- Break -->
+	<img class="grid" src="{{ "/images/IMG_7677.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7680.jpg" | absolute_url }}" alt="" />
+	<!-- Break -->
+	<img class="grid" src="{{ "/images/IMG_7939.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7974-Enhanced.jpg" | absolute_url }}" alt="" />
+	<img class="grid" src="{{ "/images/IMG_7942.jpg" | absolute_url }}" alt="" />
 </div>

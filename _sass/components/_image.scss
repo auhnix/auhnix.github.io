@@ -92,14 +92,27 @@
 	}
 
 	#me {
-		height: 13rem;
+		height: 16rem;
 		width: auto;
 		border: 1px solid #ddd;
 		border-radius: 4px;
 		padding: 8px;
 	}
 
-	#image {
-		float: left;
-		display: inline;
+	#photowall {
+	    width: 100%;
+	    column-count: 3;
+	    column-gap: 2%;
+	}
+
+	.grid {    
+	    display: inline-block;
+	    width: 100%;
+	    height: auto;
+	    margin-right: 5%;
+	}
+
+	.lesspad {
+		padding: 0;
+		margin: 0;
 	}
