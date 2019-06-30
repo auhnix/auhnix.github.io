@@ -18,7 +18,6 @@ sitemap:
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
 	<em><a href="{{ "/files/HavaXP-Resume-032019.pdf" | absolute_url }}">downloadable copy here.</a></em></p>
-
 </div>
 
 <h2 class="accent first">academics</h2>
