@@ -47,6 +47,7 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+base: /assets/images/thumbnails/
 
 # Gems
 plugins:

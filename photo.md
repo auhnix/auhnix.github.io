@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-<div id="photowall">
+<div class="photowall">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery' %}
         <img class="grid" src="{{ site.baseurl }}{{ image.path }}" alt="image" />

@@ -99,18 +99,37 @@
 		padding: 8px;
 	}
 
-	#photowall {
+	.photowall {
 	    width: 100%;
 	    column-count: 3;
 	    column-gap: 2%;
 	}
 
 	.grid {    
+		-webkit-transition: .2s -webkit-filter linear;
+		-moz-transition: .2s -moz-filter linear;
+		-moz-transition: .2s filter linear;
+		-ms-transition: .2s -ms-filter linear;
+		-o-transition: .2s -o-filter linear;
+		transition: .2s filter linear, .2s -webkit-filter linear;
 	    display: inline-block;
 	    width: 100%;
 	    height: auto;
 	    margin-right: 5%;
+
+	    &:hover {
+	    	filter: opacity(75%);
+	    }
 	}
+
+    .chiclet {
+    	width: 100%;
+    	border-radius: 3.5%;
+    	a {
+			border: 0 !important;
+			text-decoration: none !important;
+    	}
+    }
 
 	.lesspad {
 		padding: 0;

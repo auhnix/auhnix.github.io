@@ -14,7 +14,7 @@ sitemap:
 <div class="box">
 	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5cs).
 	<br/><br/>
-	experience in python/java/c++/bash/sass and adobe illustrator/lightroom with special interests in ui/ux, web design, the arts, and machine learning. 
+	experience in python/java/c++, familiarity with adobe illustrator/lightroom/photoshop and sass/docker/sketch. special interests in ui/ux, web design, the arts, and machine learning. 
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
 	<em><a href="{{ "/files/HavaXP-Resume-032019.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
@@ -55,7 +55,7 @@ sitemap:
 	<h3 class="jobloc">claremont radius,</h3> <span class="jobdesc">staff writer & editor</span>
 </header>
 * sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
-* writer covering diverse issues (e.g. PRISM act, the ethics of AI-run news curation) 
+* writer covering diverse issues (e.g. <a href="http://claremontradius.com/prism" target="_blank">PRISM act</a>, the <a href="http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>) 
 * editor ensuring clarity/factuality of articles
 
 <header>
