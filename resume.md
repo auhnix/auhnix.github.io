@@ -54,7 +54,7 @@ sitemap:
 	<span class="rightcol">feb. 2018 - present</span>
 	<h3 class="jobloc">claremont radius,</h3> <span class="jobdesc">staff writer & editor</span>
 </header>
-* sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
+* sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics 
 * writer covering diverse issues (e.g. <a href="http://claremontradius.com/prism" target="_blank">PRISM act</a>, the <a href="http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>) 
 * editor ensuring clarity/factuality of articles
 
