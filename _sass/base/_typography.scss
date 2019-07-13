@@ -42,7 +42,11 @@
 		));
 		border-bottom: dotted 1px;
 		text-decoration: none;
-		
+
+		&:link {
+			color: _palette(accent);
+		}
+
 		&:hover {
 			border-bottom-color: transparent;
 		}
