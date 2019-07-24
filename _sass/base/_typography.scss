@@ -40,15 +40,26 @@
 			'border-color #{_duration(transition)} ease-in-out',
 			'box-shadow #{_duration(transition)} ease-in-out'
 		));
+
 		border-bottom: dotted 1px;
 		text-decoration: none;
 
-		&:link {
-			color: _palette(accent);
-		}
-
 		&:hover {
 			border-bottom-color: transparent;
+		}
+	}
+
+	#main a {
+		color: _palette(accent);
+		-webkit-transition: .2s -webkit-all linear;
+		-moz-transition: .2s -moz-all linear;
+		-moz-transition: .2s all linear;
+		-ms-transition: .2s -ms-all linear;
+		-o-transition: .2s -o-all linear;
+		transition: .2s all linear, .2s -webkit-filter linear;
+			
+		&:hover{
+			filter: brightness(70%);
 		}
 	}
 

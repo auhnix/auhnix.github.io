@@ -65,7 +65,7 @@ sitemap:
 
 <header>
 	<span class="rightcol">2007 - present</span>
-	<h3 class="jobloc">shawnee playhouse theater,</h3> <span class="jobdesc">actor & stage manager</span>
+	<h3 class="jobloc">shawnee playhouse theater,</h3> <span class="jobdesc">actress & stage manager</span>
 </header>
 * performed in 18 productions, specializing in musical theater
 * as stage manager, responsible for director-cast communications
