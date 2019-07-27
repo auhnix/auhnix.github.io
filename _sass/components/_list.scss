@@ -14,6 +14,7 @@
 		li {
 			padding-left: 0.25rem;
 		}
+
 	}
 
 	ul {
@@ -208,6 +209,19 @@
 		dd {
 			margin-left: _size(element-margin);
 		}
+	}
+
+	.mtitle {
+		color: darken(_palette(accent), 10%);
+		font-weight: _font(weight-bold);
+		padding-right: .3em;
+		margin-right: .1em;
+		border-right: 1px solid darken(_palette(accent), 10%);
+	}
+
+	.mdesc {
+		font-style: italic;
+		font-weight: _font(weight);
 	}
 
 	@mixin color-list($p: null) {
