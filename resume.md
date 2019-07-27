@@ -25,7 +25,7 @@ sitemap:
 <header>
 	<span class="rightcol">class of 2021</span>
 	<h3 class="first">scripps college</h3> 
-	<p>bachelor of arts, computer science - via harvey mudd college</p>
+	<p class="noindent">bachelor of arts, computer science - via harvey mudd college</p>
 </header>
 * *recipient of james e. scripps scholarship,* scripps' top merit award
 * *relevant coursework:* discrete math, data structures, principles of cs
