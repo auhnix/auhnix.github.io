@@ -47,8 +47,10 @@ sitemap:
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
 &nbsp;
 
-> *spring 2019:* cs60, principles of cs  
-> *fall 2019:* cs70, data structures & program development
+<blockquote>
+	<p class="noindent"><em>spring 2019:</em> cs60, principles of cs</p>
+    <p class="noindent"><em>fall 2019:</em> cs70, data structures & program development</p>
+</blockquote>
 
 <header>
 	<span class="rightcol">feb. 2018 - present</span>
