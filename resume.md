@@ -17,7 +17,7 @@ sitemap:
 	experience in python/java/c++, familiarity with adobe illustrator/lightroom/photoshop and sass/docker/sketch. special interests in ui/ux, web design, the arts, and machine learning.
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
-	<em><a href="{{ "/files/HavaXP-Resume-032019.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
+	<em><a href="{{ "/files/HavaXP-Resume-082019.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
 </div>
 
 <h2 class="accent first">academics</h2>
@@ -150,7 +150,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 		</div>
 		<div class="column">
 			<header>
-				<h3 class="jobloc" style="align-content: left">familiarity with:</h3>
+				<h3 class="jobloc" style="text-align: left">familiarity with:</h3>
 			</header>
 		</div>
 	</div>
