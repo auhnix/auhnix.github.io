@@ -141,13 +141,17 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 
 <h2 class="accent">skills</h2>
 ---
-<span class="jobloc">working knowledge of:</span>
+<header>
+	<span class="jobloc">working knowledge of:</span>
+</header>
 * python
 * java
 * c++
 * html/css
 
-<span class="jobloc">familiarity with:</span>
+<header>
+	<span class="jobloc">familiarity with:</span>
+</header>
 * jekyll
 * sass
 * adobe illustrator
