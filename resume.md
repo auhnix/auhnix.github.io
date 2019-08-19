@@ -142,7 +142,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 <h2 class="accent">skills</h2>
 ---
 <header>
-	<span class="jobloc">working knowledge of:</span>
+	<h3 class="jobloc">working knowledge of:</h3>
 </header>
 * python
 * java
@@ -150,7 +150,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 * html/css
 
 <header>
-	<span class="jobloc">familiarity with:</span>
+	<h3 class="jobloc">familiarity with:</h3>
 </header>
 * jekyll
 * sass
