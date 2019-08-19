@@ -141,22 +141,43 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 
 <h2 class="accent">skills</h2>
 ---
-<header>
-	<h3 class="jobloc">working knowledge of:</h3>
-</header>
-* python
-* java
-* c++
-* html/css
-
-<header>
-	<h3 class="jobloc">familiarity with:</h3>
-</header>
-* jekyll
-* sass
-* adobe illustrator
-* adobe lightroom
-* bash scripting
-* jquery
-* mysql
-* docker
+<div class="wrap">
+	<div class="row">
+		<div class="column">
+			<header>
+				<h3 class="jobloc">working knowledge of:</h3>
+			</header>
+		</div>
+		<div class="column">
+			<header>
+				<h3 class="jobloc" style="align-content: left">familiarity with:</h3>
+			</header>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<ul>
+				<li>python</li>
+				<li>java</li>
+				<li>c++</li>
+				<li>html/css</li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li>jekyll</li>
+				<li>sass</li>
+				<li>adobe illustrator</li>
+				<li>adobe lightroom</li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li>bash scripting</li>
+				<li>jquery</li>
+				<li>mysql</li>
+				<li>docker</li>
+			</ul>
+		</div>
+	</div>
+</div>	
