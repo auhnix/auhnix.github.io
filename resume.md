@@ -14,7 +14,7 @@ sitemap:
 <div class="box">
 	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5cs).
 	<br/><br/>
-	experience in python/java/c++, familiarity with adobe illustrator/lightroom/photoshop and sass/docker/sketch. special interests in ui/ux, web design, the arts, and machine learning. 
+	experience in python/java/c++, familiarity with adobe illustrator/lightroom/photoshop and sass/docker/sketch. special interests in ui/ux, web design, the arts, and machine learning.
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
 	<em><a href="{{ "/files/HavaXP-Resume-032019.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
@@ -24,7 +24,7 @@ sitemap:
 ---
 <header>
 	<span class="rightcol">class of 2021</span>
-	<h3 class="first">scripps college</h3> 
+	<h3 class="first">scripps college</h3>
 	<p class="noindent" >bachelor of arts, computer science - via harvey mudd college</p>
 </header>
 * *recipient of james e. scripps scholarship,* scripps' top merit award
@@ -45,7 +45,6 @@ sitemap:
 	<h3 class="jobloc first">harvey mudd cs department,</h3> <span class="jobdesc">grader/tutor</span>
 </header>
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
-&nbsp;
 
 <blockquote>
 	<p class="noindent"><em>spring 2019:</em> cs60, principles of cs</p>
@@ -53,24 +52,24 @@ sitemap:
 </blockquote>
 
 <header>
+  <span class="rightcol first">aug. 2019 - present</span>
+  <h3 class="jobloc">multi-racial and ethnic group exchange,</h3> <span class="jobdesc">mentor</span>
+</header>
+* 5c community geared towards supporting and guiding first-year
+multiethnic/multicultural students
+
+<header>
 	<span class="rightcol">feb. 2018 - present</span>
 	<h3 class="jobloc">claremont radius,</h3> <span class="jobdesc">staff writer & editor</span>
 </header>
 * sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
-* writer covering diverse issues (e.g. <a href="http://claremontradius.com/prism" target="_blank">PRISM act</a>, the <a href="http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>) 
+* writer covering diverse issues (e.g. <a href="http://claremontradius.com/prism" target="_blank">PRISM act</a>, the <a href="http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>)
 * editor ensuring clarity/factuality of articles
 
 <header>
 	<span class="rightcol">feb. 2018 - present</span>
 	<h3 class="jobloc">women's blue & white 5c acapella,</h3> <span class="jobdesc">member & soloist</span>
 </header>
-
-<header>
-	<span class="rightcol">2007 - present</span>
-	<h3 class="jobloc">shawnee playhouse theater,</h3> <span class="jobdesc">actress & stage manager</span>
-</header>
-* performed in 18 productions, specializing in musical theater
-* as stage manager, responsible for director-cast communications
 
 <header>
 	<span class="rightcol">march 2018</span>
@@ -84,6 +83,13 @@ sitemap:
 	<h3 class="jobloc">the student life newspaper,</h3> <span class="jobdesc">staff videographer</span>
 </header>
 * propose, organize, and film content relevant to campus life
+
+<header>
+	<span class="rightcol">2007 - present</span>
+	<h3 class="jobloc">shawnee playhouse theater,</h3> <span class="jobdesc">actress & stage manager</span>
+</header>
+* performed in 18 productions, specializing in musical theater
+* as stage manager, responsible for director-cast communications
 
 <header>
 	<span class="rightcol">2012 - 2017</span>
@@ -100,6 +106,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 * mentored and led teams to district competition qualification
 * lead speechwriter, fact-checker, and editor
 
+<!-- 
 <h2 class="accent">service</h2>
 ---
 <header>
@@ -114,6 +121,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 </header>
 * weekly panel concerning local library policy and planning
 * organized a county "hour of code" event
+-->
 
 <h2 class="accent">honors</h2>
 ---
@@ -130,3 +138,21 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 * 1st place individual/5th place regional team (2013)
 * 1st place regional team (2014)
 * 5th place national team (2016)
+
+<h2 class="accent">skills</h2>
+---
+<span class="jobloc">working knowledge of:</span>
+* python
+* java
+* c++
+* html/css
+
+<span class="jobloc">familiarity with:</span>
+* jekyll
+* sass
+* adobe illustrator
+* adobe lightroom
+* bash scripting
+* jquery
+* mysql
+* docker
