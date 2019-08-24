@@ -14,7 +14,7 @@ sitemap:
 <div class="box">
 	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5cs).
 	<br/><br/>
-	experience in python/java/c++, familiarity with adobe illustrator/lightroom/photoshop and sass/docker/sketch. special interests in ui/ux, web design, the arts, and machine learning.
+	experience in python/java/c++, with special interests in ui/ux, web design, the arts, and machine learning.
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
 	<em><a href="{{ "/files/HavaXP-Resume-082019.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
@@ -174,7 +174,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 		<div class="column">
 			<ul>
 				<li>bash scripting</li>
-				<li>jquery</li>
+				<li>git</li>
 				<li>mysql</li>
 				<li>docker</li>
 			</ul>
