@@ -46,7 +46,7 @@ sitemap:
 </header>
 
 <header>
-	<span class="rightcol first">feb. 2020 - may 2020<span>
+	<span class="rightcol first">feb. 2020 - may 2020</span>
 	<h3 class="jobloc first">scripps college IT department,</h3> <span class="jobdesc">intern</span>
 </header>
 * paid position assisting professor chris towse with grading & book-keeping for his math 31 (calculus ii) class
