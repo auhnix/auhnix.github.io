@@ -77,6 +77,9 @@ sitemap:
 				<li>mysql</li>
 				<li>docker</li>
 			</ul>
+		</div>
+	</div>
+</div>
 
 <h2 class="accent">experience/activities</h2>
 ---
