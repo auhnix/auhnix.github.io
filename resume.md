@@ -38,6 +38,46 @@ sitemap:
 * ap scholar with distinction
 * 34 act (99th  percentile)
 
+<h2 class="accent">skills</h2>
+---
+<div class="wrap">
+	<div class="row">
+		<div class="column">
+			<header>
+				<h3 class="jobloc">working knowledge of:</h3>
+			</header>
+		</div>
+		<div class="column" style="flex: 2.1">
+			<header>
+				<h3 class="jobloc">familiarity with:</h3>
+			</header>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<ul>
+				<li>python</li>
+				<li>java</li>
+				<li>c++</li>
+				<li>html/css</li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li>jekyll</li>
+				<li>sass</li>
+				<li>adobe illustrator</li>
+				<li>adobe lightroom</li>
+			</ul>
+		</div>
+		<div class="column">
+			<ul>
+				<li>bash scripting</li>
+				<li>git</li>
+				<li>mysql</li>
+				<li>docker</li>
+			</ul>
+
 <h2 class="accent">experience/activities</h2>
 ---
 <header>
@@ -117,23 +157,6 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 * mentored and led teams to district competition qualification
 * lead speechwriter, fact-checker, and editor
 
-<!-- 
-<h2 class="accent">service</h2>
----
-<header>
-	<span class="rightcol first">2015 - 2017</span>
-	<h3 class="jobloc first">tech crew service organization</h3>
-</header>
-* responsible for setting up almost all events, e.g. band concerts, school festivals, graduation ceremonies (7 - 9 hours per week)
-
-<header>
-	<span class="rightcol">2015 - 2016</span>
-	<h3 class="jobloc">monroe county library teen advisory board</h3>
-</header>
-* weekly panel concerning local library policy and planning
-* organized a county "hour of code" event
--->
-
 <h2 class="accent">honors</h2>
 ---
 <header>
@@ -150,45 +173,6 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 * 1st place regional team (2014)
 * 5th place national team (2016)
 
-<h2 class="accent">skills</h2>
----
-<div class="wrap">
-	<div class="row">
-		<div class="column">
-			<header>
-				<h3 class="jobloc">working knowledge of:</h3>
-			</header>
-		</div>
-		<div class="column" style="flex: 2.1">
-			<header>
-				<h3 class="jobloc">familiarity with:</h3>
-			</header>
-		</div>
-	</div>
-	<div class="row">
-		<div class="column">
-			<ul>
-				<li>python</li>
-				<li>java</li>
-				<li>c++</li>
-				<li>html/css</li>
-			</ul>
-		</div>
-		<div class="column">
-			<ul>
-				<li>jekyll</li>
-				<li>sass</li>
-				<li>adobe illustrator</li>
-				<li>adobe lightroom</li>
-			</ul>
-		</div>
-		<div class="column">
-			<ul>
-				<li>bash scripting</li>
-				<li>git</li>
-				<li>mysql</li>
-				<li>docker</li>
-			</ul>
 		</div>
 	</div>
 </div>	
