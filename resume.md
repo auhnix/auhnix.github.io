@@ -175,7 +175,3 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 * 1st place individual/5th place regional team (2013)
 * 1st place regional team (2014)
 * 5th place national team (2016)
-
-		</div>
-	</div>
-</div>	
