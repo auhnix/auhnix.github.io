@@ -92,6 +92,12 @@ sitemap:
 	<span class="rightcol first">feb. 2020 - may 2020</span>
 	<h3 class="jobloc first">scripps college IT department,</h3> <span class="jobdesc">intern</span>
 </header>
+* paid position aiding the information technology department with office tasks & fielding faculty/student needs
+
+<header>
+	<span class="rightcol first">feb. 2020 - may 2020</span>
+	<h3 class="jobloc first">scripps college math department,</h3> <span class="jobdesc">intern</span>
+</header>
 * paid position assisting professor chris towse with grading & book-keeping for his math 31 (calculus ii) class
 
 <header>
