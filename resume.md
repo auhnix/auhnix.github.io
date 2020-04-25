@@ -17,7 +17,7 @@ sitemap:
 	experience in python/java/c++, with special interests in ui/ux, web design, the arts, and machine learning.
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
-	<em><a href="{{ "/files/HavaXP-Resume-082019.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
+	<em><a href="{{ "/files/HavaXP-Resume-042020.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
 </div>
 
 <h2 class="accent first">academics</h2>
@@ -41,7 +41,18 @@ sitemap:
 <h2 class="accent">experience/activities</h2>
 ---
 <header>
-	<span class="rightcol first">jan. 2019 - present</span>
+	<span class="rightcol first">jun. 2020 - aug. 2020</span>
+	<h3 class="jobloc first">microsoft - redmond,</h3> <span class="jobdesc">incoming intern</span>
+</header>
+
+<header>
+	<span class="rightcol first">feb. 2020 - may 2020<span>
+	<h3 class="jobloc first">scripps college IT department,</h3> <span class="jobdesc">intern</span>
+</header>
+* paid position assisting professor chris towse with grading & book-keeping for his math 31 (calculus ii) class
+
+<header>
+	<span class="rightcol first">jan. 2019 - dec. 2019</span>
 	<h3 class="jobloc first">harvey mudd cs department,</h3> <span class="jobdesc">grader/tutor</span>
 </header>
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
