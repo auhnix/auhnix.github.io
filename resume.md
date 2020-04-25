@@ -12,7 +12,7 @@ sitemap:
 </header>
 
 <div class="box">
-	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science through harvey mudd college, a member of the claremont consortium (5cs).
+	<p id="profile">ardent radiohead apologist and linux enthusiast working towards a b.a. in computer science/mathematics through harvey mudd college, a member of the claremont consortium (5cs).
 	<br/><br/>
 	experience in python/java/c++, with special interests in ui/ux, web design, the arts, and machine learning.
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
@@ -25,10 +25,10 @@ sitemap:
 <header>
 	<span class="rightcol">class of 2021</span>
 	<h3 class="first">scripps college</h3>
-	<p class="noindent" >bachelor of arts, computer science - via harvey mudd college</p>
+	<p class="noindent" >bachelor of arts, computer science/mathematics - via harvey mudd college</p>
 </header>
 * *recipient of james e. scripps scholarship,* scripps' top merit award
-* *relevant coursework:* discrete math, data structures, principles of cs
+* *relevant coursework:* algorithms, real analysis, data structures, abstract algebra, computability/logic
 
 <header>
 	<span class="rightcol">class of 2017</span>
