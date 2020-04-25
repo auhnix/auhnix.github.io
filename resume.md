@@ -112,6 +112,11 @@ sitemap:
 </blockquote>
 
 <header>
+	<span class="rightcol">feb. 2018 - present</span>
+	<h3 class="jobloc">women's blue & white 5c acapella,</h3> <span class="jobdesc">co-president & soloist</span>
+</header>
+
+<header>
   <span class="rightcol first">aug. 2019 - present</span>
   <h3 class="jobloc">multi-racial and ethnic group exchange,</h3> <span class="jobdesc">mentor</span>
 </header>
@@ -125,11 +130,6 @@ multiethnic/multicultural students
 * sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
 * writer covering diverse issues (e.g. <a href="http://claremontradius.com/prism" target="_blank">PRISM act</a>, the <a href="http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>)
 * editor ensuring clarity/factuality of articles
-
-<header>
-	<span class="rightcol">feb. 2018 - present</span>
-	<h3 class="jobloc">women's blue & white 5c acapella,</h3> <span class="jobdesc">member & soloist</span>
-</header>
 
 <header>
 	<span class="rightcol">march 2018</span>
