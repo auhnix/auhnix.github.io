@@ -116,7 +116,7 @@ multiethnic/multicultural students
 	<h3 class="jobloc">claremont radius,</h3> <span class="jobdesc">staff writer & editor</span>
 </header>
 * sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
-* writer covering diverse issues (e.g. <a href="http://claremontradius.com/prism" target="_blank">PRISM act</a>, the <a href="http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>)
+* writer covering diverse issues (e.g. <a href="https://web.archive.org/web/20180830210212/http://claremontradius.com/prism/" target="_blank">PRISM act</a>, the <a href="https://web.archive.org/web/20200221054714/http://claremontradius.com/government-regulate-big-tech/" target="_blank">ethics of AI-run news curation</a>)
 * editor ensuring clarity/factuality of articles
 
 <header>
