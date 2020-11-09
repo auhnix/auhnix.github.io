@@ -9,3 +9,4 @@ using [no style please](https://github.com/riggraz/no-style-please) with some mo
 - [ ] fix post display/tagging
 - [ ] refactor stylesheet
 - [ ] add styleswitcher
+- [ ] bookmark wall
