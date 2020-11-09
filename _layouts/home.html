@@ -1,5 +1,6 @@
 ---
 layout: default
+image: "assets/images/me.png"
 ---
 <div class="w">
 	<header>
@@ -9,8 +10,12 @@ layout: default
 	  {% endif %}
 	</header>
 
-i'm hava, sometimes i do things?
-but sometimes i don't, etc, etc
+	<img id="me" src="{{ "/assets/images/me2.jpg" | absolute_url }}"></img>
+
+	<div id="blurb">
+		i'm hava, sometimes i do things?
+		but sometimes i don't, etc, etc
+	</div>
 
 	{% include menu_item.html collection=site.data.menu.entries %}
 </div>

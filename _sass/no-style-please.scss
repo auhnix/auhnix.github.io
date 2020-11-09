@@ -146,7 +146,7 @@ blockquote {
       width: 100%;
       column-count: 3;
       column-gap: 2%;
-  }
+}
 
 .grid {    
   -webkit-transition: .2s -webkit-filter linear;
@@ -173,4 +173,15 @@ iframe {
 
 header h3 {
   margin: 0;
+}
+
+#me {
+  margin: 0 auto;
+  width: 250px;
+  height: auto;
+  display: block;
+}
+
+#blurb {
+  padding-top: 2em;
 }
