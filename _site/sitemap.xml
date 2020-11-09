@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://localhost:4000/blog/on-stranger-in-the-alps/</loc>
+      <loc>http://localhost:4000/on-stranger-in-the-alps.html</loc>
       
         <lastmod>2019-07-24T00:00:00-04:00</lastmod>
       
@@ -11,7 +11,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/blog/a-blueprint-filmspotting/</loc>
+      <loc>http://localhost:4000/a-blueprint-filmspotting.html</loc>
       
         <lastmod>2019-07-23T00:00:00-04:00</lastmod>
       
@@ -21,7 +21,7 @@
   
   
     <url>
-      <loc>http://localhost:4000/about/</loc>
+      <loc>http://localhost:4000/about</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -31,7 +31,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/blog/</loc>
+      <loc>http://localhost:4000/blog</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -41,7 +41,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/bookmarks/</loc>
+      <loc>http://localhost:4000/bookmarks</loc>
        <lastmod>2019-07-05T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -51,7 +51,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/elements/</loc>
+      <loc>http://localhost:4000/elements</loc>
        <lastmod>2017-11-02T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -91,7 +91,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/photo/</loc>
+      <loc>http://localhost:4000/photo</loc>
        <lastmod>2019-06-30T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -101,7 +101,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/resume/</loc>
+      <loc>http://localhost:4000/resume</loc>
        <lastmod>2019-06-29T00:00:00-04:00</lastmod>
       
        <changefreq>yearly</changefreq>
@@ -121,7 +121,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/thank-you/</loc>
+      <loc>http://localhost:4000/thank-you</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -131,42 +131,12 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/video/</loc>
+      <loc>http://localhost:4000/video</loc>
        <lastmod>2019-06-30T00:00:00-04:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
        <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/assets/css/style.css</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/theme/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/robots.txt</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
       
      </url>
   
