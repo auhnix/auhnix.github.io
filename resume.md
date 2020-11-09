@@ -13,7 +13,7 @@ sitemap:
 	experience in python/java/c++, with special interests in ui/ux, web design, the arts, and machine learning.
 	swift learner with strong written and verbal communication skills eager to combine her love of technology with a keen eye for design and knack for finding needles in haystacks.
 	<br><br>
-	<em><a href="{{ "/files/HavaXP-Resume-042020.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
+	<em><a href="{{ "/files/HavaXP-Resume-102020.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
 </div>
 ---
 <h2 class="accent">academics</h2>
