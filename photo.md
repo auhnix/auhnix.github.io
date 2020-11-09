@@ -1,7 +1,6 @@
 ---
-layout: post
-title: photography | & life doesn't stop for anybody
-description: photography portfolio
+layout: resume
+title: photography
 sitemap:
     priority: 0.7
     lastmod: 2019-06-30
@@ -9,7 +8,6 @@ sitemap:
 ---
 
 <header class="major">
-	<h1>photography</h1>
 	<p>selection of images shot somewhere between 2013 and now (early 2019). shot with a canon eos 20d. with a few exceptions, glass is either a <a href="https://www.sigmaphoto.com/70-300mm-f4-5-6-apo-dg-macro" target="_blank">sigma 70-300mm</a> or the beautiful <a href="https://www.lightandmatter.org/2012/equipment-reviews/the-canon-ef-50mm-f1-8-mark-i/" target="_blank">canon ef 50mm mk i</a>.</p>
 </header>
 

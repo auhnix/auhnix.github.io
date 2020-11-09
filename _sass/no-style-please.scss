@@ -57,6 +57,11 @@ li { margin: 0.4rem 0; }
   max-width: 1000px;
 }
 
+.r {
+  @extend .w;
+  max-width: 1500px;
+}
+
 hr {
   text-align: center;
   border: 0;
@@ -129,10 +134,42 @@ blockquote {
 }
 
 .accent {
-  color: forestgreen;
+  color: #89bb78;
   margin: 0;
 }
 
+#skills {
+  column-count: 2;
+}
+
+.photowall {
+      width: 100%;
+      column-count: 3;
+      column-gap: 2%;
+  }
+
+.grid {    
+  -webkit-transition: .2s -webkit-filter linear;
+  -moz-transition: .2s -moz-filter linear;
+  -moz-transition: .2s filter linear;
+  -ms-transition: .2s -ms-filter linear;
+  -o-transition: .2s -o-filter linear;
+  transition: .2s filter linear, .2s -webkit-filter linear;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin-right: 5%;
+
+    &:hover {
+      filter: opacity(75%);
+    }
+}
+
+iframe {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
 
 header h3 {
   margin: 0;
