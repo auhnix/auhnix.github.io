@@ -12,10 +12,10 @@ entries:
       - title: video
         url: video
 
-  - title: thoughts
-    post_list: true
-    url: false
-    entries: false
+  # - title: thoughts
+  #   post_list: true
+  #   url: false
+  #   entries: false
 
   - title: rss
     url: feed.xml
