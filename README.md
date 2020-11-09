@@ -3,5 +3,5 @@ using [no style please](https://github.com/riggraz/no-style-please) with some mo
 
 ## wishlist
 
-- [] fix resume
-- [] datesort posts?
+- [ ] fix resume
+- [ ] datesort posts?
