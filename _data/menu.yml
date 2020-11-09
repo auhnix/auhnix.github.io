@@ -12,6 +12,11 @@ entries:
       - title: video
         url: video
 
+  - title: thoughts
+    url: false
+    entries:
+      - title: coming soon :^)
+        url: false
   # - title: thoughts
   #   post_list: true
   #   url: false

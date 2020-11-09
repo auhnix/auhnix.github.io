@@ -5,6 +5,7 @@ date:   2019-07-23
 excerpt: "today marks a month until i get back to school, and i've decided something monumental: it is, at last, time to get through the movies i've been stockpiling for YEARS."
 image: "https://i0.wp.com/thespool.net/wp-content/uploads/2019/02/reality.jpg"
 comments: true
+tags: film
 ---
 hello blog. how're you doing?
 

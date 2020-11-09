@@ -1,9 +1,18 @@
 {% if site.posts.size > 0 %}
   <ul>
-    {% for post in site.posts %}
+  	{% for tag in site.tags %}
+	  <li>{{ tag[0] }}</li>
+	  <ul>
+	    {% for post in tag[1] %}
+	      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	  </ul>
+	{% endfor %}
+
+<!--     {% for post in site.posts %}
       <li>
         {{ post.date | date: site.theme_config.date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
       </li>
-    {% endfor %}
+    {% endfor %} -->
   </ul>
 {% endif %}
