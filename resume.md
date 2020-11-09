@@ -72,24 +72,24 @@ sitemap:
 
 <h2 class="accent">experience/activities</h2>
 <header>
-	<span class="rightcol first">jun. 2020 - aug. 2020</span>
+	<span class="rightcol first">jun. '20 - aug. '20</span>
 	<h3 class="jobloc first">microsoft - redmond,</h3> <span class="jobdesc">intern</span>
 </header>
 
 <header>
-	<span class="rightcol first">feb. 2020 - may 2020</span>
+	<span class="rightcol first">feb. '20 - may '20</span>
 	<h3 class="jobloc first">scripps college IT dept,</h3> <span class="jobdesc">intern</span>
 </header>
 * paid position aiding the information technology department with office tasks & fielding faculty/student needs
 
 <header>
-	<span class="rightcol first">feb. 2020 - may 2020</span>
+	<span class="rightcol first">feb. '20 - may '20</span>
 	<h3 class="jobloc first">scripps college math dept,</h3> <span class="jobdesc">intern</span>
 </header>
 * paid position assisting professor chris towse with grading & book-keeping for his math 31 (calculus ii) class
 
 <header>
-	<span class="rightcol first">jan. 2019 - dec. 2019</span>
+	<span class="rightcol first">jan. '19 - dec. '19</span>
 	<h3 class="jobloc first">harvey mudd cs department,</h3> <span class="jobdesc">grader/tutor</span>
 </header>
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
@@ -100,19 +100,19 @@ sitemap:
 </blockquote>
 
 <header>
-	<span class="rightcol">feb. 2018 - present</span>
-	<h3 class="jobloc">women's blue & white 5c acapella,</h3> <span class="jobdesc">president & soloist</span>
+	<span class="rightcol">feb. '18 - present</span>
+	<h3 class="jobloc">womxn's blue & white 5c acapella,</h3> <span class="jobdesc">president & soloist</span>
 </header>
 
 <header>
-  <span class="rightcol first">aug. 2019 - present</span>
-  <h3 class="jobloc">multi-racial and ethnic group exchange,</h3> <span class="jobdesc">mentor</span>
+  <span class="rightcol first">aug. '19 - jan. '20</span>
+  <h3 class="jobloc">multi-racial/ethnic group exchange,</h3> <span class="jobdesc">mentor</span>
 </header>
 * 5c community geared towards supporting and guiding first-year
 multiethnic/multicultural students
 
 <header>
-	<span class="rightcol">feb. 2018 - present</span>
+	<span class="rightcol">feb. '18 - present</span>
 	<h3 class="jobloc">claremont radius,</h3> <span class="jobdesc">staff writer & editor</span>
 </header>
 * sociopolitically-minded bipartisan 5c publication featuring numerous viewpoints on controversial topics
@@ -127,7 +127,7 @@ multiethnic/multicultural students
 * led creation of team presentation and organized event/travel logistics
 
 <header>
-	<span class="rightcol">sept. 2018 - jan. 2018</span>
+	<span class="rightcol">sept. '18 - jan. '18</span>
 	<h3 class="jobloc">the student life newspaper,</h3> <span class="jobdesc">staff videographer</span>
 </header>
 * propose, organize, and film content relevant to campus life

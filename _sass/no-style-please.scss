@@ -142,7 +142,12 @@ blockquote {
 }
 
 .jobdesc {
-  font-syle: italic;
+  &:before {
+    content: ' ';
+    display: block;
+  }
+  font-style: italic;
+  text-decoration: underline;
 }
 
 .accent {
