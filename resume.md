@@ -20,9 +20,9 @@ sitemap:
 <header>
 	<span class="rightcol">class of 2021</span>
 	<h3 class="first">scripps college</h3>
-	<p class="noindent" >bachelor of arts, computer science/mathematics - via harvey mudd college</p>
+	<p class="noindent">bachelor of arts, computer science/mathematics<br><em>via <u>harvey mudd college</u></em></p>
 </header>
-* recipient of james e. scripps scholarship,* scripps' top merit award
+* *recipient of james e. scripps scholarship,* scripps' <br> highest merit award
 * *relevant coursework:* algorithms, real analysis, data structures, abstract algebra, computability/logic
 
 <header>
@@ -34,44 +34,37 @@ sitemap:
 * 34 act (99th  percentile)
 
 <h2 class="accent">skills</h2>
-<div class="wrap">
-	<div class="row">
-		<div class="column">
-			<header>
-				<h3 class="jobloc">working knowledge of:</h3>
-			</header>
+<div class="tricol">
+	<div class="col">
+		<div class="l">
+			<h3 class="jobloc l">working knowledge of:</h3>
 		</div>
-		<div class="column" style="flex: 2.1">
-			<header>
-				<h3 class="jobloc">familiarity with:</h3>
-			</header>
-		</div>
+		<ul>
+			<li>python</li>
+			<li>java</li>
+			<li>c++</li>
+			<li>html/css</li>
+		</ul>
 	</div>
-	<div class="row">
-		<div class="column">
-			<ul>
-				<li>python</li>
-				<li>java</li>
-				<li>c++</li>
-				<li>html/css</li>
-			</ul>
+	<div class="col">
+		<div class="l">
+			<h3 class="jobloc l">familiarity with:</h3>
 		</div>
-		<div class="column">
-			<ul>
-				<li>jekyll</li>
-				<li>sass</li>
-				<li>adobe illustrator</li>
-				<li>adobe lightroom</li>
-			</ul>
-		</div>
-		<div class="column">
-			<ul>
-				<li>bash scripting</li>
-				<li>git</li>
-				<li>mysql</li>
-				<li>docker</li>
-			</ul>
-		</div>
+		<ul>
+			<li>jekyll</li>
+			<li>sass</li>
+			<li>adobe illustrator</li>
+			<li>adobe lightroom</li>
+		</ul>
+	</div>
+	<div class="col">
+		<div class="l"></div>
+		<ul>
+			<li>bash scripting</li>
+			<li>git</li>
+			<li>mysql</li>
+			<li>docker</li>
+		</ul>
 	</div>
 </div>
 
@@ -80,18 +73,18 @@ sitemap:
 <h2 class="accent">experience/activities</h2>
 <header>
 	<span class="rightcol first">jun. 2020 - aug. 2020</span>
-	<h3 class="jobloc first">microsoft - redmond,</h3> <span class="jobdesc">incoming intern</span>
+	<h3 class="jobloc first">microsoft - redmond,</h3> <span class="jobdesc">intern</span>
 </header>
 
 <header>
 	<span class="rightcol first">feb. 2020 - may 2020</span>
-	<h3 class="jobloc first">scripps college IT department,</h3> <span class="jobdesc">intern</span>
+	<h3 class="jobloc first">scripps college IT dept,</h3> <span class="jobdesc">intern</span>
 </header>
 * paid position aiding the information technology department with office tasks & fielding faculty/student needs
 
 <header>
 	<span class="rightcol first">feb. 2020 - may 2020</span>
-	<h3 class="jobloc first">scripps college math department,</h3> <span class="jobdesc">intern</span>
+	<h3 class="jobloc first">scripps college math dept,</h3> <span class="jobdesc">intern</span>
 </header>
 * paid position assisting professor chris towse with grading & book-keeping for his math 31 (calculus ii) class
 
@@ -102,13 +95,13 @@ sitemap:
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
 
 <blockquote>
-	<p class="noindent"><em>spring 2019:</em> cs60, principles of cs</p>
-    <p class="noindent"><em>fall 2019:</em> cs70, data structures & program development</p>
+	<p class="noindent"><em><u>spring 2019:</u></em> cs60, principles of cs</p>
+    <p class="noindent"><em><u>fall 2019:</u></em> cs70, data structures & program development</p>
 </blockquote>
 
 <header>
 	<span class="rightcol">feb. 2018 - present</span>
-	<h3 class="jobloc">women's blue & white 5c acapella,</h3> <span class="jobdesc">co-president & soloist</span>
+	<h3 class="jobloc">women's blue & white 5c acapella,</h3> <span class="jobdesc">president & soloist</span>
 </header>
 
 <header>
