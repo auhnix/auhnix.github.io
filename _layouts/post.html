@@ -5,8 +5,10 @@ layout: default
 	<a href="{{ site.url }}">{{ site.theme_config.back_home_text }}</a>
 	<h1>{{ page.title }}</h1>
 	<h4 class="dt">{{ page.date | date: site.theme_config.date_format }}</h4>
-	<div class="imgcontainer">
-		<img src="{{ page.image }}"></img>
-	</div>
+	{% if page.image %}
+		<div class="imgcontainer">
+			<img src="{{ page.image }}"></img>
+		</div>
+	{% endif %}
 	<div class="post">{{ content }}</div>
 </div>

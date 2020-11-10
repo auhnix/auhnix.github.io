@@ -6,6 +6,7 @@ excerpt: "today marks a month until i get back to school, and i've decided somet
 image: "https://i0.wp.com/thespool.net/wp-content/uploads/2019/02/reality.jpg"
 comments: true
 tags: film
+category: film
 ---
 hello blog. how're you doing?
 
