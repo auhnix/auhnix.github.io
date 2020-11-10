@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: hey"
+title: hey"
 tag: hey
 robots: noindex
 ---

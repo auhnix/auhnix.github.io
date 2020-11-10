@@ -10,11 +10,14 @@ layout: default
 			<img src="{{ page.image }}"></img>
 		</div>
 	{% endif %}
-	<span>[
-	  {% for tag in page.tags %}
-	    {% capture tag_name %}{{ tag }}{% endcapture %}
-	    <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
-	  {% endfor %}
-	]</span>
+	
+	{% if page.tags %}
+		<span>[
+		  {% for tag in page.tags %}
+		    {% capture tag_name %}{{ tag }}{% endcapture %}
+		    <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
+		  {% endfor %}
+		]</span>
+	{% endif %}
 	<div class="post">{{ content }}</div>
 </div>

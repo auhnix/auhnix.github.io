@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: phoebe"
+title: phoebe"
 tag: phoebe
 robots: noindex
 ---

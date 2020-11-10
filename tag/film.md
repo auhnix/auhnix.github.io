@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: film"
+title: film"
 tag: film
 robots: noindex
 ---
