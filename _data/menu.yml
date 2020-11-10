@@ -13,14 +13,12 @@ entries:
         url: video
 
   - title: thoughts
-    url: false
+    url: blog
     entries:
-      - title: coming soon :^)
-        url: false
-  # - title: thoughts
-  #   post_list: true
-  #   url: false
-  #   entries: false
+      - title: music
+        url: tag/music
+      - title: film
+        url: tag/film
 
   - title: rss
     url: feed.xml
