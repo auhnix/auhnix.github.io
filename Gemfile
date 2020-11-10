@@ -3,3 +3,4 @@
 source "https://rubygems.org"
 gemspec
 gem "jekyll-tagging"
+gem "jekyll-paginate"
