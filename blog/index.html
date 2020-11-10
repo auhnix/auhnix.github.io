@@ -2,6 +2,7 @@
 layout: post
 title: thoughtsposting
 ---
+<!-- taglist -->
 <ul>
 	{% assign sorted_tags = site.tags | sort %}
 	{% for tag in sorted_tags %}
@@ -12,15 +13,8 @@ title: thoughtsposting
 	{% endif %}
 {% endfor %}
 </ul>
-<!-- <ul style="margin-top: -1em">
-  {% for post in site.posts %}
-    <li>
-      <h2 style="margin-bottom: -.8em"><a href="{{ post.url }}">{{ post.title }}</a></h2><br><em>[{{ post.date | date: site.theme_config.date_format }}]</em><br>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul> -->
 
+<!-- display page posts -->
 <ul style="margin-top: -1em">
 {% for post in paginator.posts %}
     <li>
@@ -30,6 +24,7 @@ title: thoughtsposting
 {% endfor %}
 </ul>
 
+<!-- pagination -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
