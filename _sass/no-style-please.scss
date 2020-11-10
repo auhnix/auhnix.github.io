@@ -43,7 +43,8 @@ h2, h3, h4, h5 { margin-top: 3rem; }
 }
 
 #title {
-  text-align: center;
+  margin: 0 auto 0 auto;
+  font-style: italic;
 }
 
 hr { margin: 2rem 0; }
@@ -61,6 +62,7 @@ li { margin: 0.4rem 0; }
 }
 
 #homepglist {
+  display: block;
   list-style-type: katakana-iroha;
 
   > ul {
@@ -237,10 +239,11 @@ ul + header, header + header {
 }
 
 #me {
-  margin: 1em auto 0 auto;
+  margin: 1em;
   width: 250px;
   height: auto;
   display: block;
+  float: left;
 }
 
 a {
@@ -260,10 +263,9 @@ a {
   }
 }
 
-#drawer {
-  margin: -1em auto 0 auto;
-}
-
 #blurb {
-  padding-top: 1em;
+  padding-top: .5em;
+  p {
+    margin-bottom: 0
+  }
 }

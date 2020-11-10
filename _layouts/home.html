@@ -8,22 +8,21 @@ image: "assets/images/me.png"
 	  {% if site.theme_config.show_description == true %}
 	    <p>{{ site.description }}</p>
 	  {% endif %}
-
-	<div id="drawer">
-		<a href="mailto:hava.xinhua@gmail.com" target="_blank"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
-		<a href="https://linkedin.com/in/havaparker" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-		<a href="https://github.com/auhnix" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-		<a href="https://twitter.com/havascript" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-		<a href="https://last.fm/user/auhnix" target="_blank"><i class="fa fa-lastfm-square" aria-hidden="true"></i></a>
-	</div>
 	</header>
 
 	<img id="me" src="{{ "/assets/images/me2.jpg" | absolute_url }}"></img>
 
 	<div id="blurb">
-		i'm hava, sometimes i do things?
-		but sometimes i don't, etc, etc
+		<p>i'm hava, sometimes i do things?
+		but sometimes i don't, etc, etc</p>
+		<div id="drawer">
+		   	<a href="mailto:hava.xinhua@gmail.com" target="_blank"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
+		   	<a href="https://linkedin.com/in/havaparker" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+		   	<a href="https://github.com/auhnix" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+		   	<a href="https://twitter.com/havascript" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		   	<a href="https://last.fm/user/auhnix" target="_blank"><i class="fa fa-lastfm-square" aria-hidden="true"></i></a>
+		</div>
 	</div>
-
+	
 	{% include menu_item.html collection=site.data.menu.entries %}
 </div>
