@@ -21,7 +21,7 @@ body[a="dark"] { @include dark-appearance; }
 // see: https://stackoverflow.com/a/61265706
 html, body { background-color: white; }
 
-html { height: 100%; }
+html { height: 100%; overflow-y: scroll;}
 
 body {
   color: black;
