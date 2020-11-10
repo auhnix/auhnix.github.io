@@ -227,6 +227,10 @@ ul + header, header + header {
   margin-top: 1em;
 }
 
+#tags {
+  display: inline-block;
+}
+
 .l {
   font-size-adjust: .3;
   height: 1.3em;
