@@ -75,12 +75,14 @@ li { margin: 0.4rem 0; }
 }
 
 .x {
-  @extend .w;
+  margin: 0 auto;
+  padding: 4rem 2rem;
   max-width: 1000px;
 }
 
 .r {
-  @extend .w;
+  margin: 0 auto;
+  padding: 4rem 2rem;
   max-width: 1100px;
 }
 

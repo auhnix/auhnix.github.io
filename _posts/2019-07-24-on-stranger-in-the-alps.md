@@ -5,7 +5,7 @@ date:   2019-07-24
 excerpt: "something about this spring drew me to Sad White Girls on guitar - maybe it was los angeles' uncharacteristic raininess (the drought is over; thank christ?) ..."
 image: "https://f4.bcbits.com/img/a3164574832_10.jpg"
 comments: false
-tags: music phoebe
+tags: music phoebe-bridgers
 ---
 
 something about this spring drew me to Sad White Girls on guitar - maybe it was los angeles' uncharacteristic raininess (the drought is over; thank christ?) or the realization that i was rapidly closing in on the end of my second year at college. or, more likely, it was that i was beginning to get bored of listening to bon iver's 2011 self-titled. i can almost hear my fellow indie fans - *bored? of bon iver?* - yeah. i know. shocking.

@@ -5,7 +5,7 @@ url: https://auhnix.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   just me, hello
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title
 tag_page_layout: tag_page
 tag_page_dir: tag
 paginate: 3
