@@ -15,7 +15,7 @@ title: thoughtsposting
 </ul>
 
 <!-- display page posts -->
-<ul style="margin-top: -1em">
+<ul id="blogposts">
 {% for post in paginator.posts %}
     <li>
       <h2 style="margin-bottom: -.8em"><a href="{{ post.url }}">{{ post.title }}</a></h2><br><em>[{{ post.date | date: site.theme_config.date_format }}]</em><br>
