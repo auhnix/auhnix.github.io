@@ -1,10 +1,9 @@
 ---
 layout: post
-title: hey
 ---
 <ul>
 {% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+  <li><a href="{{ post.url }}">{{ post.title }}</a> [{{ page.date | date: site.theme_config.date_format }}]<br>
     {{ post.description }}
   </li>
 {% endfor %}
