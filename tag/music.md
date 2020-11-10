@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: music"
+title: music
 tag: music
 robots: noindex
 ---
