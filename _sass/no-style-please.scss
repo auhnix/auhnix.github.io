@@ -136,8 +136,7 @@ li { margin: 0.4rem 0; }
 }
 
 #blurb {
-  background-color: $highlight;
-  height: 300px;
+  max-height: 200px;
   margin: .5em;
   p {
     margin-bottom: 0
