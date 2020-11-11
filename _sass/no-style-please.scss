@@ -1,4 +1,5 @@
 // ---- VARIABLES ----- //
+
 $accent: #89bb78;
 $fonts: 'Courier New', monospace;
 $highlight: #ff0;
@@ -135,7 +136,7 @@ li { margin: 0.4rem 0; }
 }
 
 #blurb {
-  padding-top: .2em;
+  padding: .5em;
   p {
     margin-bottom: 0
   }
@@ -143,6 +144,7 @@ li { margin: 0.4rem 0; }
 
 #homepglist {
   display: block;
+  padding: 0;
   list-style-type: katakana-iroha;
 
   > ul {
