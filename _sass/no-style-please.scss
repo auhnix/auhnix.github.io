@@ -136,7 +136,10 @@ li { margin: 0.4rem 0; }
 }
 
 #blurb {
-  //background-color: $highlight;
+  margin: 3em;
+  p {
+    margin-bottom: 0
+  }
 }
 
 #homepglist {
