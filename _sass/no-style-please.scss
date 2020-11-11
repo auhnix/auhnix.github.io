@@ -171,6 +171,7 @@ li { margin: 0.4rem 0; }
 }
 
 .l {
+  font-size-adjust: .4;
   height: 1.3em;
 }
 
@@ -182,7 +183,7 @@ li { margin: 0.4rem 0; }
 .col {
   max-width: 33%;
   flex: 1;
-  font-size: .6em;
+  font-size: .7em;
 
   ul {
     margin: 0;
