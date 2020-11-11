@@ -132,15 +132,15 @@ li { margin: 0.4rem 0; }
   width: 30%;
   height: auto;
   display: block;
-  float: right;
+  float: left;
 }
 
 #blurb {
   max-height: 200px;
   margin: .5em;
-  p {
-    margin-bottom: 0
-  }
+  // p {
+  //   margin-bottom: 0
+  // }
 }
 
 #homepglist {
