@@ -2,7 +2,7 @@
 layout: default
 image: "assets/images/me.png"
 ---
-<div class="w">
+<div class="narrow">
 	<header>
 	  <h1 id="title">{{ site.title }}</h1>
 	  {% if site.theme_config.show_description == true %}
@@ -23,6 +23,6 @@ image: "assets/images/me.png"
 		   	<a href="https://last.fm/user/auhnix" target="_blank"><i class="fa fa-lastfm-square" aria-hidden="true"></i></a>
 		</div>
 	</div>
-	
+
 	{% include menu_item.html collection=site.data.menu.entries %}
 </div>

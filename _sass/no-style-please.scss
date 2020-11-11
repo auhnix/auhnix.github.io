@@ -1,3 +1,8 @@
+// ---- VARIABLES ----- //
+$accent: #89bb78;
+$fonts: 'Courier New', monospace;
+$highlight: #ff0;
+
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
@@ -16,6 +21,8 @@ body[a="dark"] { @include dark-appearance; }
 }
 // -------------------------------------------- //
 
+// ----- GENERAL ----- //
+
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
@@ -25,40 +32,113 @@ html { height: 100%; width: 100vw; overflow-x: hidden;}
 
 body {
   color: black;
-  font-family: monospace, 'Courier New';
+  font-family: $fonts;
   font-size: 1.3rem;
   line-height: 1.3;
   margin: 0;
   min-height: 100%;
 }
 
-::selection {
-  background: #ff0;
-}
+// set yellow highlight
+::selection { background: $highlight; }
 
 h2, h3, h4, h5 { margin-top: 3rem; }
 
-.dt {
-  margin-top: -1.5em;
+hr {
+  margin: 2rem 0;
+  text-align: center;
+  border: 0;
+
+  &:before { content: '/////' }
+  &:after { content: attr(data-content) '/////' }
 }
+
+// ---- TYPOGRAPHY ----- //
+
+p { margin: 1rem 0; }
+
+blockquote {
+  font-style: italic;
+  border: thin solid black;
+  padding: 1rem;
+
+  p { margin: 0; }
+}
+
+a {
+  &:visited { color: blue; }
+  &:hover {
+    color: purple;
+    text-decoration: line-through underline;
+    font-style: italic;
+  }
+
+  i { // homepg socials
+    color: black;
+    &:hover { color: $accent; }
+  }
+}
+
+.accent {
+  color: #89bb78;
+}
+
+code {
+  color: white;
+  background-color: black;
+}
+
+div.highlighter-rouge code {
+  display: block;
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+// ----- OTHER GEN ----- //
+
+table, th, td {
+  width: 100%;
+  border: thin solid black;
+  border-collapse: collapse;
+  padding: 0.4rem;
+}
+
+li { margin: 0.4rem 0; }
+
+*:target { background-color: yellow; }
+
+.x {
+  margin: 0 auto;
+  padding: 4rem 2rem;
+  max-width: 1000px;
+}
+
+.box {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+// ---- HOMEPAGE ---- //
 
 #title {
   margin: 0 auto 0 auto;
   font-style: italic;
 }
 
-hr { margin: 2rem 0; }
+#me {
+  margin: 1em;
+  width: 30%;
+  height: auto;
+  display: block;
+  float: left;
+}
 
-p { margin: 1rem 0; }
-
-li { margin: 0.4rem 0; }
-
-*:target { background-color: yellow; }
-
-.w {
-  max-width: 640px;
-  margin: 0 auto;
-  padding: 4rem 2rem;
+#blurb {
+  padding-top: .2em;
+  p {
+    margin-bottom: 0
+  }
 }
 
 #homepglist {
@@ -74,72 +154,39 @@ li { margin: 0.4rem 0; }
   }
 }
 
-.x {
+.narrow {
   margin: 0 auto;
   padding: 4rem 2rem;
-  max-width: 1000px;
+  max-width: 640px;
 }
 
-.r {
-  margin: 0 auto;
-  padding: 4rem 2rem;
-  max-width: 1100px;
-}
-
-hr {
-  text-align: center;
-  border: 0;
-
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
-}
-
-table, th, td {
-  width: 100%;
-  border: thin solid black;
-  border-collapse: collapse;
-  padding: 0.4rem;
-}
-
-code {
-  color: white;
-  background-color: black;
-}
-
-div.highlighter-rouge code {
-  display: block;
-  overflow-x: auto;
-  padding: 1rem;
-}
-
-blockquote {
-  font-style: italic;
-  border: thin solid black;
-  padding: 1rem;
-
-  p { margin: 0; }
-}
-
-.imgcontainer {
-  height: 400px;
-  overflow: hidden;
-  margin: 0 auto 1em auto;
-}
-
-.imgcontainer img {
-  display: block;
-  width: 100%;
-  margin: -15% 0;
-}
+// ----- RESUME ----- //
 
 #restop {
   text-align: center;
 }
 
-.box {
-  border: 1px solid black;
-  padding: 10px;
-  text-align: center;
+.reshead {
+  margin: 0;
+}
+
+.l {
+  height: 1.3em;
+}
+
+.tricol {
+  display: flex;
+  column-count: 3;
+}
+
+.col {
+  max-width: 33%;
+  flex: 1;
+  font-size: .6em;
+
+  ul {
+    margin: 0;
+  }
 }
 
 .rightcol {
@@ -162,20 +209,22 @@ blockquote {
   text-decoration: underline;
 }
 
-.accent {
-  color: #89bb78;
+header h3 {
   margin: 0;
+  margin-bottom: -.7em;
 }
 
-#skills {
-  column-count: 2;
+// may need to revise later -- used this for now
+// bc ul elements are in markdown.
+header + ul {
+  margin-top: 2%;
 }
 
-.photowall {
-      width: 100%;
-      column-count: 3;
-      column-gap: 2%;
+ul + header, header + header {
+  margin-top: 1em;
 }
+
+// ----- PHOTO/VIDEO ----- //
 
 .grid {    
   -webkit-transition: .2s -webkit-filter linear;
@@ -194,82 +243,38 @@ blockquote {
     }
 }
 
+.photowall {
+      width: 100%;
+      column-count: 3;
+      column-gap: 2%;
+}
+
 iframe {
   text-align: center;
   margin: 0 auto;
   display: block;
 }
 
-header h3 {
-  margin: 0;
-  margin-bottom: -.7em;
-}
+// ----- BLOG ----- //
 
-.noindent {
-    text-indent: 0;
-}
+.imgcontainer {
+  height: 400px;
+  overflow: hidden;
+  margin: 0 auto 1em auto;
 
-.tricol {
-  display: flex;
-  column-count: 3;
-}
-
-.col {
-  max-width: 33%;
-  flex: 1;
-
-  ul {
-    margin: 0;
+  img {
+    display: block;
+    width: 100%;
+    margin: -15% 0;
   }
 }
 
-header + ul {
-  margin-top: 2%;
-}
-
-ul + header, header + header {
-  margin-top: 1em;
+.dt {
+  margin-top: -1.5em;
 }
 
 #tags {
   display: inline-block;
-}
-
-.l {
-  font-size-adjust: .3;
-  height: 1.3em;
-}
-
-#me {
-  margin: 1em;
-  width: 30%;
-  height: auto;
-  display: block;
-  float: left;
-}
-
-a {
-  i {
-    color: black;
-    &:hover {
-      color: #89bb78;
-    }
-  }
-  &:visited {
-    color: blue
-  }
-  &:hover {
-    color: purple;
-    text-decoration: line-through underline;
-    font-style: italic;
-  }
-}
-
-#blurb {
-  padding-top: .2em;
-  p {
-    margin-bottom: 0
-  }
 }
 
 #blogposts {

@@ -16,11 +16,11 @@ sitemap:
 	<em><a href="{{ "/assets/files/HavaXP-Resume-102020.pdf" | absolute_url }}">downloadable copy here (pdf).</a></em></p>
 </div>
 ---
-<h2 class="accent">academics</h2>
+<h2 class="reshead accent">academics</h2>
 <header>
 	<span class="rightcol">class of 2021</span>
 	<h3 class="first">scripps college</h3>
-	<p class="noindent">bachelor of arts, computer science/mathematics<br><em>via <u>harvey mudd college</u></em></p>
+	<p>bachelor of arts, computer science/mathematics<br><em>via <u>harvey mudd college</u></em></p>
 </header>
 * *recipient of james e. scripps scholarship,* scripps' <br> highest merit award
 * *relevant coursework:* algorithms, real analysis, data structures, abstract algebra, computability/logic
@@ -33,7 +33,7 @@ sitemap:
 * ap scholar with distinction
 * 34 act (99th  percentile)
 
-<h2 class="accent">skills</h2>
+<h2 class="reshead accent">skills</h2>
 <div class="tricol">
 	<div class="col">
 		<div class="l">
@@ -70,7 +70,7 @@ sitemap:
 
 ---
 
-<h2 class="accent">experience/activities</h2>
+<h2 class="reshead accent">experience/activities</h2>
 <header>
 	<span class="rightcol first">jun. '20 - aug. '20</span>
 	<h3 class="jobloc first">microsoft - redmond,</h3> <span class="jobdesc">intern</span>
@@ -95,8 +95,8 @@ sitemap:
 * paid semesterly position aiding students/professors of harvey mudd college's computer science classes
 
 <blockquote>
-	<p class="noindent"><em><u>spring 2019:</u></em> cs60, principles of cs</p>
-    <p class="noindent"><em><u>fall 2019:</u></em> cs70, data structures & program development</p>
+	<p><em><u>spring 2019:</u></em> cs60, principles of cs</p>
+    <p><em><u>fall 2019:</u></em> cs70, data structures & program development</p>
 </blockquote>
 
 <header>
@@ -156,7 +156,7 @@ including acts, 1/2/3 john, and 1 & 2 timothy)
 
 ---
 
-<h2 class="accent">honors</h2>
+<h2 class="reshead accent">honors</h2>
 <header>
 	<span class="rightcol first">2014 & 2015</span>
 	<h3 class="jobloc first">assemblies of god fine arts competition</h3>
