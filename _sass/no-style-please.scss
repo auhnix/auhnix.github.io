@@ -128,19 +128,17 @@ li { margin: 0.4rem 0; }
 }
 
 #me {
-  margin: 1em;
-  width: 30%;
-  height: auto;
-  display: block;
-  float: left;
+    margin: 1em;
+    height: 120px;
+    display: block;
+    float: left;
+    padding: 0;
+    margin-bottom: 0;
 }
 
 #blurb {
-  max-height: 200px;
-  margin: .5em;
-  // p {
-  //   margin-bottom: 0
-  // }
+    max-height: 200px;
+    margin: .5em;
 }
 
 #homepglist {
