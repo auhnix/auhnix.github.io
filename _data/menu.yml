@@ -12,13 +12,13 @@ entries:
       - title: video
         url: video
 
-  - title: thoughts
-    url: blog
-    entries:
-      - title: music
-        url: tag/music
-      - title: film
-        url: tag/film
+  # - title: thoughts
+  #   url: blog
+  #   entries:
+  #     - title: music
+  #       url: tag/music
+  #     - title: film
+  #       url: tag/film
 
   - title: rss
     url: feed.xml

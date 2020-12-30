@@ -18,4 +18,4 @@ despite bridgers' lyric honesty, i notice more and more that she functions as a 
 
 perhaps my favorite moment of the song is its very end. the final word ("wall") ricochets within the song's chamber-like confines, before being absorbed and silenced by the four-hit bass riff.
 
-at this point, "motion sickness" is bridgers' signature song; much like the mainstream was introduced to electropop princess [grimes](https://www.grimesmusic.com/) by way of her relationship with elon musk, bridgers' name was briefly known in relation to the media circus that developed around ryan adams. of course, she is more than The Girl, Who Talked About Ryan Adams.
+at this point, "motion sickness" is bridgers' signature song; much like the mainstream was introduced to electropop princess [grimes](https://www.grimesmusic.com/) by way of her relationship with elon musk, bridgers' name was briefly known in relation to the media circus that developed around ryan adams. of course, she is more than that, and "motion sickness" serves as reclamation.
