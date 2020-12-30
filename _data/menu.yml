@@ -2,15 +2,21 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: some links
-    url: false
-    entries:
-      - title: résumé
-        url: resume
-      - title: photos
-        url: photo
-      - title: video
-        url: video
+  - title: résumé
+    url: resume
+  - title: photos
+    url: photo
+  - title: video
+    url: video
+  # - title: some links
+  #   url: false
+  #   entries:
+  #     - title: résumé
+  #       url: resume
+  #     - title: photos
+  #       url: photo
+  #     - title: video
+  #       url: video
 
   # - title: thoughts
   #   url: blog
