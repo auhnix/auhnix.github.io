@@ -26,5 +26,5 @@ entries:
   #     - title: film
   #       url: tag/film
 
-  - title: rss
-    url: feed.xml
+  # - title: rss
+  #   url: feed.xml
